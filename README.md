@@ -1,8 +1,7 @@
 <h1 align="center">Welcome to the Hub of Josphat Mburu!</h1>
 <p align="center">
   <img src="https://img.shields.io/github/followers/ke-whiz?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ke-whiz.visitor-badge" alt="Visitor Badge">
-  <img src="https://img.shields.io/github/stars/ke-whiz?label=Stars&style=social" alt="GitHub Stars">
+<img src="https://profile-counter.glitch.me/{whizmburu}/count.svg" alt="Whizmburu :: Visitor's Count" src="https://img.shields.io/github/stars/ke-whiz?label=Stars&style=social" alt="GitHub Stars">
 </p>
 
 <p align="center">
